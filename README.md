@@ -33,14 +33,17 @@
 <hr>
 
 ## 📚 Projects
+[<h3>$\bf{\textsf{\color{#2F80ED}수어 번역 어플리케이션, 어울림}}$</h3>](https://github.com/eomjimin/Eoullim.git)
 
-<span style="color:blue">파란 글씨</span>
+> 어쩌구저쩌구
 
-<b><span style="color:white; background-color:red; font-size:150%">글자는 흰색, 배경은 빨강, 사이즈는 150, 굵기는 b태그로 설정</span></b>
+[<h3>$\bf{\textsf{\color{#2F80ED}성격 기반 AI 챗봇, 챗쪽이}}$</h3>](https://github.com/eomjimin/Chatjjock.git)
 
-#### **$\bf{\textsf{\color{#6580DD}수어 번역 어플리케이션, 어울림}}$** 
+> 어쩌구저쩌구
 
-> ####ddd
+[<h3>$\bf{\textsf{\color{#2F80ED}교통약자 보조 어플리케이션, 이동의 꿈}}$</h3>](https://github.com/eomjimin/DDProject.git)
+
+> 어쩌구저쩌구
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomjimin&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomjimin&layout=compact)](https://github.com/eomjimin/github-readme-stats)
