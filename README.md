@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=250&text=Hello&fontColor=ffffff&fontAlignY=40&desc=I'm%20Jimin&descSize=20&descAlignY=55&descAlign=45)
-### 👋 Hi there 
+## 👋 Hi there 
 안녕하세요 AI 개발자를 희망하는 엄지민 입니다😎
 
-### 🛠 Skills
+
+## 🛠 Skills
 ###### Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -27,6 +28,19 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/>
+<br>
+<br>
+<hr>
+
+## 📚 Projects
+
+<span style="color:blue">파란 글씨</span>
+
+<b><span style="color:white; background-color:red; font-size:150%">글자는 흰색, 배경은 빨강, 사이즈는 150, 굵기는 b태그로 설정</span></b>
+
+#### **$\bf{\textsf{\color{#6580DD}수어 번역 어플리케이션, 어울림}}$** 
+
+> ####ddd
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomjimin&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomjimin&layout=compact)](https://github.com/eomjimin/github-readme-stats)
