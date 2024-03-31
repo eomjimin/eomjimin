@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=250&text=Jimin's%20Repo&fontColor=ffffff&fontAlignY=45&desc=AI%20Developer&descSize=15&descAlignY=25&descAlign=32)
-## 👋 Hi there 
+## 👋 Introduction
 안녕하세요 AI 개발자를 희망하는 엄지민 입니다😎
 
 
