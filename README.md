@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=250&text=Hello&fontColor=ffffff&fontAlignY=40&desc=I'm%20Jimin&descSize=20&descAlignY=55&descAlign=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=250&text=Jimin's%20Repo&fontColor=ffffff&fontAlignY=45&desc=AI%20Developer&descSize=15&descAlignY=25&descAlign=32)
 ## 👋 Hi there 
 안녕하세요 AI 개발자를 희망하는 엄지민 입니다😎
 
@@ -53,11 +53,15 @@
 
 ![image](https://github.com/eomjimin/eomjimin/assets/68543910/6341167b-34ae-4165-a877-3ce33164ea28)
 
+<br>
+
 <hr>
 
 ## 📚 Education
 ##### AI기반 챗봇 및 OCR 개발 전문가 과정
 ###### ' 2023-08-30 ~ 2024-03-07 6개월간 python 기초문법을 배운 후 web서비스를 위한 node.js, python 서버, html, css, javascript, react native 등을 배운 후 공공API를 사용한 앱을 개발하였고 챗봇 프로젝트를 진행하기 위해 데이터 분석(numpy, pandas, matplotlib), 크롤링, 자연어처리, 머신러닝, 딥러닝등을 공부하여 직접 데이터를 수집하고 서버를 구축 및 모델을 학습시켜 챗봇 프로젝트를 진행하였습니다. 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
+
+<br>
 
 <hr>
 
