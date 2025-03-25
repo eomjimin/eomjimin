@@ -34,6 +34,13 @@
 <hr>
 
 ## 📚 Projects
+[<h3>$\bf{\textsf{\color{#2F80ED}국회 회의록 기반 의정활동 및 대국민 알권리 보장 챗봇 서비스, AI-NAMee}}$</h3>](https://github.com/eomjimin/AI_Namee)
+
+> 국회 회의록과 법률 문서를 분석하고, 이를 기반으로 사용자에게 정보를 전달해 주는 목적을 가진 챗봇 서비스
+
+![image](https://github.com/user-attachments/assets/9308bdbf-79b0-4491-8660-802607cdc5ab)
+
+
 [<h3>$\bf{\textsf{\color{#2F80ED}수어 번역 어플리케이션, 어울림}}$</h3>](https://github.com/eomjimin/Eoullim.git)
 
 > mediapipe로 추출한 keypoint값을 이미지화 하여 ResNet을 사용해 수어를 번역하고 이를 GPT API를 사용하여 자연어 처리 후, 음성으로 변환하여 출력해주는 어플리케이션
@@ -60,7 +67,7 @@
 
 ## 📚 Education
 ### AI기반 챗봇 및 OCR 개발 전문가 과정
-' 2023-08-30 ~ 2024-03-07 6개월간 python 기초문법을 배운 후 web서비스를 위한 node.js, python 서버, html, css, javascript, react native 등을 배운 후 공공API를 사용한 앱을 개발하였고 챗봇 프로젝트를 진행하기 위해 데이터 분석(numpy, pandas, matplotlib), 크롤링, 자연어처리, 머신러닝, 딥러닝등을 공부하여 직접 데이터를 수집하고 서버를 구축 및 모델을 학습시켜 챗봇 프로젝트를 진행하였습니다. 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
+' 2023-08-30 ~ 2024-03-07 6개월간 python 기초문법을 배운 후 web서비스를 위한 node.js, python 서버, html, css, javascript, react native 등을 배운 후 공공API를 사용한 앱을 개발하였고 챗봇 프로젝트를 진행하기 위해 데이터 분석(numpy, pandas, matplotlib), 크롤링, 자연어처리, 머신러닝, 딥러닝등을 공부하여 직접 데이터를 수집하고 서버를 구축 및 모델을 학습시켜 챗봇 프로젝트를 진행하였습니다. 컴퓨터비전(cv2), OCR를 공부하고 활용하여 마지막 컴퓨터 비전 프로젝트를 작업 후 성공적으로 해당 과정을 마무리하였습니다.
 
 <br>
 
