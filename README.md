@@ -34,25 +34,25 @@
 <hr>
 
 ## 📚 Projects
-### 📌[국회 회의록 기반 의정활동 및 대국민 알권리 보장 챗봇 서비스, AI-NAMee](https://github.com/eomjimin/AI_Namee)
+### [국회 회의록 기반 의정활동 및 대국민 알권리 보장 챗봇 서비스, AI-NAMee](https://github.com/eomjimin/AI_Namee)
 
 > 국회 회의록과 법률 문서를 분석하고, 이를 기반으로 사용자에게 정보를 전달해 주는 목적을 가진 챗봇 서비스
 
 ![image](https://github.com/user-attachments/assets/9308bdbf-79b0-4491-8660-802607cdc5ab)
 
-### 📌[수어 번역 어플리케이션, 어울림](https://github.com/eomjimin/Eoullim.git)
+### [수어 번역 어플리케이션, 어울림](https://github.com/eomjimin/Eoullim.git)
 
 > mediapipe로 추출한 keypoint값을 이미지화 하여 ResNet을 사용해 수어를 번역하고 이를 GPT API를 사용하여 자연어 처리 후, 음성으로 변환하여 출력해주는 어플리케이션
 
 ![image](https://github.com/eomjimin/eomjimin/assets/68543910/45f72f42-254d-4c4b-bad1-4ec5b546930b)
 
-### 📌[성격 기반 AI 챗봇, 챗쪽이](https://github.com/eomjimin/Chatjjock.git)
+### [성격 기반 AI 챗봇, 챗쪽이](https://github.com/eomjimin/Chatjjock.git)
 
 > GPT2 모델을 이용하여 5가지 대립되는 성격 카테고리들로 진행한 사용자의 성격 검사를 기반으로 하여 생성된 AI 챗봇과 대화할 수 있도록 하는 챗봇 서비스
 
 ![image](https://github.com/eomjimin/eomjimin/assets/68543910/4f18a2dc-8758-473c-a439-713f3e471d4d)
 
-### 📌[교통약자 보조 어플리케이션, 이동의 꿈](https://github.com/eomjimin/DDProject.git)
+### [교통약자 보조 어플리케이션, 이동의 꿈](https://github.com/eomjimin/DDProject.git)
 
 > Open API, 공공데이터를 이용하여 사용자가 원하는 경로를 지체장애인의 편의에 맞게 안내해주고, 사용자의 실시간 위치정보를 기반으로 하여 버스기사와 지하철 역무원에게 Firebase를 사용하여 알림을 전송함으로써 장애인 승객과 기사 간의 소통을 도와주는 어플리케이션, 빅데이터 활용 미래 사회문제 해결 아이디어 해커톤 장려상 수상작
 
