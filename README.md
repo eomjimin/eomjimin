@@ -34,6 +34,10 @@
 <hr>
 
 ## 📚 Projects
+### [README.md 쓰기 싫어서 만든 AGENT, README_agent](https://github.com/eomjimin/README_agent)
+
+> 로컬 폴더에 있는 파일들을 읽고 요약해서 README를 생성해주는 agent [openai사용]
+
 ### [국회 회의록 기반 의정활동 및 대국민 알권리 보장 챗봇 서비스, AI-NAMee](https://github.com/eomjimin/AI_Namee)
 
 > 국회 회의록과 법률 문서를 분석하고, 이를 기반으로 사용자에게 정보를 전달해 주는 목적을 가진 챗봇 서비스
