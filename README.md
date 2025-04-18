@@ -34,9 +34,12 @@
 <hr>
 
 ## 📚 Projects
-### [README.md 쓰기 싫어서 만든 AGENT, README_agent](https://github.com/eomjimin/README_agent)
+### [README.md 쓰기 싫어서 만든 AGENT, README_Agent](https://github.com/eomjimin/README_agent)
 
-> 로컬 폴더에 있는 파일들을 읽고 요약해서 README를 생성해주는 agent [openai사용]
+> 로컬 폴더에 있는 파일들을 읽고 요약해서 README를 생성해주는 agent 기반 서비스 ~openai사용~
+ 
+![image](https://github.com/user-attachments/assets/aaa3ef73-a828-4a5a-a395-78118ef0a215)
+
 
 ### [국회 회의록 기반 의정활동 및 대국민 알권리 보장 챗봇 서비스, AI-NAMee](https://github.com/eomjimin/AI_Namee)
 
